@@ -1,0 +1,74 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int age = 12;
+	string login = "D1mple", pass = "AFL787", log, pas;
+	cout  << "Login        :     ";
+	cin >> log;
+	cout << "Password     :     ";
+    cin >> pas;
+    cout << "------------------"<<endl;
+	if (login == log) { cout << "Okaaaay" << endl; }
+	else cout << "Wrong login" << endl;
+	if (pass == pas) { cout << "Okaay" << endl; }
+	else cout << "Wrong password" << endl;
+
+	//int age = 1;
+	//string pass = "AFL787", pin;
+	//cin >> pin;
+	//if (pass == pin) { cout << "Okay"; }
+	//else cout << "Wrong pass";
+
+
+
+
+
+
+
+	//int atzime = 9, vecums = 15, augums = 175;
+
+
+	//cin >> atzime >> vecums >> augums;
+	//if (atzime >= 0 && atzime <= 10) { cout << "atzime ok" << endl; }
+	//else cout << "Error" << endl;
+	//if (vecums >= 0 && vecums <= 110) { cout << "vecums ok" << endl; }
+	//else cout << "Error" << endl;
+	//if (augums >= 0 && augums <= 230) { cout << "augums ok" << endl; }
+	//else cout << "Error" << endl;
+
+	//cout << "Exit";
+
+
+
+
+	//int dog = 33, cat = 12;
+
+	//cin >> cat >> dog;
+	//if (dog >= 0 && dog <= 30) { cout << "dogs age is ok" << endl; }
+	//else cout << "wrong dogs age" << endl;
+	//if (cat > 0 && cat <= 20) { cout << "cats age is ok" << endl; }
+	//else cout << "wrong cats age" << endl;
+
+	//cout << "Exit";
+
+
+
+
+	//int age = 12;
+
+
+	//cin >> age;
+	//if (age >= 0) { cout << "Okay" << endl; }
+	//else cout << "unrealistic age" << endl;
+
+	//cout << "Exit";
+
+
+
+
+
+
+
+}
