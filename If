@@ -1,0 +1,74 @@
+#include <iostream>
+using  namespace std;
+
+int main()
+{
+
+
+
+
+
+
+
+	//int a, b, c;
+	//cin >> a  >> b>> c;
+	//if (a == b&& a== c&& b==c) { cout << "Vienadmalu trijsturis"<< endl; }
+	//if (a == b && a != c && b != c) { cout << "Vienadsanu trijsturis" << endl; }
+
+
+
+
+	//int a,b ;
+	//cin >> a >> b;
+	//if (a == 1) { cout << "Primdiena" << endl; }
+ //   if (a == 2) { cout << "Otrdiena" << endl; }
+ //   if (a == 3) { cout << "Trešdiena" << endl; } 
+ //   if (a == 4) { cout << "Ceturtdiena" << endl; }
+ //   if (a == 5) { cout << "Piektdiena" << endl; }
+ //   if (a == 6) { cout << "Sestdiena" << endl; }
+	//if (a == 7) { cout << "Svetdiena" << endl; }
+	//if (b == 1) { cout << "Janvaris" << endl; }
+	//if (b == 2) { cout << "Februaris" << endl; }
+	//if (b == 3) { cout << "Marts" << endl; }
+	//if (b == 4) { cout << "Aprilis" << endl; }
+	//if (b == 5) { cout << "Maijs" << endl; }
+	//if (b == 6) { cout << "Junijs" << endl; }
+	//if (b == 7) { cout << "Julijs" << endl; }
+	//if (b == 8) { cout << "Augusts" << endl; }
+	//if (b == 9) { cout << "Septembris" << endl; }
+	//if (b == 10) { cout << "Oktobris" << endl; }
+	//if (b == 11) { cout << "Novembris" << endl; }
+	//if (b == 12) { cout << "Decembris" << endl; }
+
+
+
+
+
+
+	//int a;
+	//cin >> a;
+	//if (a >= 90&&a<100) { cout << "Grade A" << endl; }
+	//if (a >= 80&&a<90) { cout << "Grade B" << endl; }
+	//if (a >= 70&&a<80) { cout << "Grade C" << endl; }
+	//if (a >= 60&&a<70) { cout << "Grade D" << endl; }
+	//if (a >= 40&&a<60) { cout << "Grade E" << endl; }
+	//if (a < 40) { cout << "Grade F" << endl; }
+	
+
+
+	//int a, b;
+	//cin >> a >> b;
+	//if (a > b) { cout << "A > B" << endl; }
+	//else cout << "B > A" << endl;
+	//if (a < 0) { cout << "A ir negativais skaitlis" << endl; }
+	//else cout << "A ir positivais skaitlis" << endl;
+	//if (b < 0) { cout << "B ir negativais skaitlis" << endl; }
+	//else cout << "B ir positivais skaitlis" << endl;
+	//if (a % 2 == 0) { cout << "Skaitlis a ir para" << endl; }
+	//else cout << "Skaitlis a nav para" << endl;
+	//if (b % 2 == 0) { cout << "Skaitlis b ir para" << endl; }
+	//else cout << "Skaitlis b nav para" << endl;
+
+}
+
+
